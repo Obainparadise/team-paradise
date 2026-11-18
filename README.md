@@ -1,2 +1,2 @@
 # team-paradise
-a team
+A github project for BU-COS 209
